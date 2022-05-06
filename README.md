@@ -64,3 +64,7 @@ func main() {
 	proof := tree.Proof(3)
 }
 ```
+
+# Reference
+- [RFC#6962](https://datatracker.ietf.org/doc/html/rfc6962#section-2.1)
+- [Codenotary](https://github.com/codenotary/merkletree)
